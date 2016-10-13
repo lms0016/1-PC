@@ -1,0 +1,10 @@
+1p-16G-test7.outv: FCL Foreground: Average queue length:    1.781850
+1p-16G-testn.outv: FCL Foreground: Average queue length:    7.903698
+1p-test7_16G.outv: FCL Foreground: Average queue length:    4.182494
+1p-testn_4G.outv: FCL Foreground: Average queue length:    23.782426
+fox-1part-t1test01-opt-16G-IO1-a05.outv: FCL Foreground: Average queue length:    0.071714
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: FCL Foreground: Average queue length:    21802.960302
+fox-1part-t1test06-opt-16G-IO1-a05.outv: FCL Foreground: Average queue length:    16.601281
+fox-1part-t1test09-opt-16G-IO1-a05.outv: FCL Foreground: Average queue length:    0.000000
+fox-1part-t1test11-opt-16G-IO1-a05.outv: FCL Foreground: Average queue length:    0.000000
+fox-1part-t1test13-opt-16G-IO1-a05.outv: FCL Foreground: Average queue length:    0.347637

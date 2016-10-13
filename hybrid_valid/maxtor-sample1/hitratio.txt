@@ -1,0 +1,10 @@
+1p-16G-test7.outv: LRU hit ratio = 0.407446
+1p-16G-testn.outv: LRU hit ratio = 0.603876
+1p-test7_16G.outv: LRU hit ratio = 0.394787
+1p-testn_4G.outv: LRU hit ratio = 0.552598
+fox-1part-t1test01-opt-16G-IO1-a05.outv: LRU hit ratio = 0.241372
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: LRU hit ratio = 0.967458
+fox-1part-t1test06-opt-16G-IO1-a05.outv: LRU hit ratio = 0.522063
+fox-1part-t1test09-opt-16G-IO1-a05.outv: LRU hit ratio = 0.031669
+fox-1part-t1test11-opt-16G-IO1-a05.outv: LRU hit ratio = 0.910424
+fox-1part-t1test13-opt-16G-IO1-a05.outv: LRU hit ratio = 0.833497

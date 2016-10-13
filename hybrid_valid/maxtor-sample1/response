@@ -1,0 +1,6 @@
+grep -i 'fcl foreground: response time average' *.outv > responsetime.txt
+grep -i 'fcl foreground: response time average' *.outv 
+grep -i 'fcl foreground: queue time average' *.outv > queuetime.txt
+grep -i 'fcl foreground: queue time average' *.outv
+grep -i 'fcl foreground: physical access time average' *.outv > accesstime.txt
+grep -i 'fcl foreground: physical access time average' *.outv

@@ -1,0 +1,9 @@
+grep -i 'LRU hit ratio' *.outv > hitratio.txt
+grep -i 'LRU hit ratio' *.outv 
+grep -i 'fcl foreground: average queue length' *.outv > queuelenth.txt
+grep -i 'fcl foreground: average queue length' *.outv 
+grep -i 'ssd  #0 elem #0   Number of cleans:' *.outv > clean.txt
+grep -i 'ssd  #0 elem #0   Number of cleans:' *.outv
+grep -i 'nodeCnt' *.outv > destagecnt.txt
+grep -i 'nodeCnt' *.outv 
+

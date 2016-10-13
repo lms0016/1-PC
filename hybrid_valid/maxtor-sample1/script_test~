@@ -1,0 +1,2 @@
+../../src/disksim hybrid-maxtor-optimal-sd.parv fox-4k1r.outv ascii ../trace/4k1r.txt 0 ssd0x0 "Reserve pages percentage" 10 
+

@@ -1,0 +1,2 @@
+../../src/disksim hybrid-maxtor-optimal10_16G.parv 1p-16G-testn.outv ascii ~/Desktop/trace/pcmark_new.txt 0 ssd0x0 "Reserve pages percentage" 10 
+

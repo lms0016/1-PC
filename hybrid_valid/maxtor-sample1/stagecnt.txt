@@ -1,0 +1,6 @@
+fox-1part-t1test09-opt-4G-IO1-a05.outv: LRU Stage Count = 0
+fox-1part-t1test10-opt-4G-IO1-a05.outv: LRU Stage Count = 546223
+fox-1part-t1test11-opt-4G-IO1-a05.outv: LRU Stage Count = 10358
+fox-1part-t1test13-opt-4G-IO1-a05.outv: LRU Stage Count = 427207
+fox-1part-t1test14-opt-4G-IO1-a05.outv: LRU Stage Count = 33086
+test7.outv: LRU Stage Count = 450231

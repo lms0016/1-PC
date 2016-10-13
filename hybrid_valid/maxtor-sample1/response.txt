@@ -1,0 +1,1 @@
+ FCL Foreground: Response time average: 	37853.942087

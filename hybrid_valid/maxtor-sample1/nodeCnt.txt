@@ -1,0 +1,10 @@
+1p-16G-test7.outv:nodeCnt = 45351
+1p-16G-testn.outv:nodeCnt = 168478
+1p-test7_16G.outv:nodeCnt = 45351
+1p-testn_4G.outv:nodeCnt = 168478
+fox-1part-t1test01-opt-16G-IO1-a05.outv:nodeCnt = 901082
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv:nodeCnt = 45505
+fox-1part-t1test06-opt-16G-IO1-a05.outv:nodeCnt = 336197
+fox-1part-t1test09-opt-16G-IO1-a05.outv:nodeCnt = 887190
+fox-1part-t1test11-opt-16G-IO1-a05.outv:nodeCnt = 8062
+fox-1part-t1test13-opt-16G-IO1-a05.outv:nodeCnt = 268390

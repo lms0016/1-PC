@@ -1,0 +1,11 @@
+#!/bin/sh
+
+PREFIX=../../src
+FIOTRACE=~/Desktop/FIO_trace
+RESULT=~/Desktop/FIO_trace/result
+
+${PREFIX}/disksim hybrid-maxtor-optimal10.parv ${RESULT}/1_read_random_3g_256iodep.outv ascii ${FIOTRACE}/read_random_3g_256iodep.trace 0 ssd0x0 "Reserve pages percentage" 50
+${PREFIX}/disksim hybrid-maxtor-optimal10.parv ${RESULT}/1_read_seq_3g_256iodep.outv ascii ${FIOTRACE}/read_seq_3g_256iodep.trace 0 ssd0x0 "Reserve pages percentage" 50
+${PREFIX}/disksim hybrid-maxtor-optimal10.parv ${RESULT}/1_write_random_3g_256iodep.outv ascii ${FIOTRACE}/write_random_3g_256iodep.trace 0 ssd0x0 "Reserve pages percentage" 50
+${PREFIX}/disksim hybrid-maxtor-optimal10.parv ${RESULT}/1_write_seq_3g_256iodep.outv ascii ${FIOTRACE}/write_seq_3g_256iodep.trace 0 ssd0x0 "Reserve pages percentage" 50
+
